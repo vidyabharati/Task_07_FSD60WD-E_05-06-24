@@ -1,6 +1,6 @@
 # Task_07_FSD60WD-E_05-06-24
 Task_07_FSD60WD-E_05-06-24-Array methods
- ARRAY METHODS
+
 
 Q) Solving problems using array functions on rest countries data (https://restcountries.com/v3.1/all).
 a) Get all the countries from Asia continent /region using Filter method
